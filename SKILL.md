@@ -1,6 +1,7 @@
 ---
 name: mikrotik-encyclopedia
 description: MikroTik and RouterOS documentation-first workflow for questions, troubleshooting, command planning, live CLI/API work, config review, log analysis, security review, performance tuning, and diagnostics. Use whenever MikroTik, RouterOS, RouterBOARD, CAPsMAN, WinBox, MikroTik CLI, RouterOS terminal commands, SSH access to a MikroTik, API access to a MikroTik, firewall rules, NAT, filter, raw, mangle, bridge, switch, VLAN, DHCP, DNS, queues, wireless, WiFi, CAP, CAPsMAN provisioning, routing, packet flow, connection tracking, or MikroTik device management is mentioned, implied, or required. Also use before answering direct or indirect MikroTik questions and before performing any direct inspection or action against a MikroTik device.
+metadata: {"openclaw":{"emoji":"📡","homepage":"https://help.mikrotik.com/docs/"}}
 ---
 
 # MikroTik Encyclopedia
