@@ -1,6 +1,16 @@
 ---
 name: mikrotik-encyclopedia
-description: MikroTik and RouterOS documentation-first workflow for MikroTik-specific questions, troubleshooting, command planning, live CLI/API work, config review, log analysis, security review, performance tuning, and diagnostics. Use when the request is clearly about MikroTik or RouterOS: MikroTik devices, RouterOS, RouterBOARD, CAPsMAN, WinBox, MikroTik CLI/API/SSH access, or networking topics specifically in a MikroTik context such as firewall, NAT, filter/raw/mangle, bridge, switch, VLAN, DHCP, DNS, queues, wireless/WiFi, routing, packet flow, connection tracking, or device management. Do not use for generic networking or firewall questions unless they are clearly tied to MikroTik or RouterOS.
+description: >-
+  MikroTik and RouterOS documentation-first workflow for MikroTik-specific
+  questions, troubleshooting, command planning, live CLI/API work, config
+  review, log analysis, security review, performance tuning, and diagnostics.
+  Use when the request is clearly about MikroTik or RouterOS: MikroTik
+  devices, RouterOS, RouterBOARD, CAPsMAN, WinBox, MikroTik CLI/API/SSH
+  access, or networking topics specifically in a MikroTik context such as
+  firewall, NAT, filter/raw/mangle, bridge, switch, VLAN, DHCP, DNS, queues,
+  wireless/WiFi, routing, packet flow, connection tracking, or device
+  management. Do not use for generic networking or firewall questions unless
+  they are clearly tied to MikroTik or RouterOS.
 metadata: {"openclaw":{"emoji":"📡","homepage":"https://help.mikrotik.com/docs/"}}
 ---
 
