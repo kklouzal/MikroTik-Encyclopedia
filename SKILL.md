@@ -1,6 +1,6 @@
 ---
 name: mikrotik-encyclopedia
-description: MikroTik and RouterOS documentation-first workflow for questions, troubleshooting, command planning, live CLI/API work, config review, log analysis, security review, performance tuning, and diagnostics. Use whenever MikroTik, RouterOS, RouterBOARD, CAPsMAN, WinBox, MikroTik CLI, RouterOS terminal commands, SSH access to a MikroTik, API access to a MikroTik, firewall rules, NAT, filter, raw, mangle, bridge, switch, VLAN, DHCP, DNS, queues, wireless, WiFi, CAP, CAPsMAN provisioning, routing, packet flow, connection tracking, or MikroTik device management is mentioned, implied, or required. Also use before answering direct or indirect MikroTik questions and before performing any direct inspection or action against a MikroTik device.
+description: MikroTik and RouterOS documentation-first workflow for MikroTik-specific questions, troubleshooting, command planning, live CLI/API work, config review, log analysis, security review, performance tuning, and diagnostics. Use when the request is clearly about MikroTik or RouterOS: MikroTik devices, RouterOS, RouterBOARD, CAPsMAN, WinBox, MikroTik CLI/API/SSH access, or networking topics specifically in a MikroTik context such as firewall, NAT, filter/raw/mangle, bridge, switch, VLAN, DHCP, DNS, queues, wireless/WiFi, routing, packet flow, connection tracking, or device management. Do not use for generic networking or firewall questions unless they are clearly tied to MikroTik or RouterOS.
 metadata: {"openclaw":{"emoji":"📡","homepage":"https://help.mikrotik.com/docs/"}}
 ---
 
@@ -14,7 +14,8 @@ Use a docs-first workflow for MikroTik work. Prefer the official MikroTik docume
 
 1. **Classify the task**
    - Decide whether the task is a MikroTik question, troubleshooting task, command-planning task, config review, or live SSH/API task.
-   - If any meaningful MikroTik dependency exists, use this skill.
+   - Use this skill when the request is clearly about MikroTik hardware, RouterOS behavior, or a networking/admin task in a MikroTik context.
+   - Do not use this skill for generic networking theory or generic Linux firewall/admin work unless the MikroTik/RouterOS context is explicit.
 
 2. **Check local cache first**
    - Use `.MikroTik-Encyclopedia/` as the local knowledge/cache root.
